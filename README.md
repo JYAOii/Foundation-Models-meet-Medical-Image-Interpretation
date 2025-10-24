@@ -40,7 +40,7 @@ To get started, follow these steps:
 ## III. Data Preparation
 We follow the [nnU-Net V2](https://github.com/MIC-DKFZ/nnUNet?tab=readme-ov-file) guideline for data preparation, detailed below and accessible [here](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_format.md).
 
-## IV.Model Training
+## IV. Model Training
 ### 1. To train the expert models
 (1) **STU-Net** :snake:
 - Training from scratch:
@@ -75,7 +75,7 @@ These models are trained on TotalSegmentator dataset by 4000 epochs with mirror 
 
 ### 4. To train the foundation models
 
-## V.Inference and Ulitls
+## V. Inference and Ulitls
 
 ## 🚀 Data
 
