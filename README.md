@@ -76,39 +76,13 @@ These models are trained on TotalSegmentator dataset by 4000 epochs with mirror 
 ### 4. To train the foundation models
 
 ## V.Inference and Ulitls
-- Validation Inference
-To generate model validation output, execute the `--val` command:
-
-  ```bash
-  CUDA_VISIBLE_DEVICES=0 python nnunetv2/run/exp_training.py -config xx/Training_config_exp.yaml --val
-  ```
-
-- Inference on unseen (in progress)
-
-- Ulitls
-
-Continue training at the breakpoint, execute the `--c` command:
-
-  ```bash
-  CUDA_VISIBLE_DEVICES=0 python nnunetv2/run/exp_training.py -config xx/Training_config_exp.yaml --c
-  ```
-Multi-GPU training, execute the `-num_gpus` command：
-
-  ```bash
-  CUDA_VISIBLE_DEVICES=0,1,2,3 python nnunetv2/run/exp_training.py -config xx/Training_config_exp.yaml -num_gpus 4
-  ```
 
 ## 🚀 Data
 
 ## 📚 Citation
-
-## Citation
 If you utilize the baselines in this repository for your research, please consider citing the relevant papers for 
 [nnU-Net](https://www.nature.com/articles/s41592-020-01008-z);
 [STU-Net](https://arxiv.org/abs/2304.06716).
 
-
-
 ## Acknowledgements
-
 We would like to acknowledge the contributions of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) and the authors of the baseline models: [STU-Net](https://github.com/uni-medical/STU-Net). This repository builds upon their foundational code and work.
