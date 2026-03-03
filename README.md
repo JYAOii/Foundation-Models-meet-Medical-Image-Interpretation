@@ -2,10 +2,12 @@
 Foundation Models meet Medical Image Interpretation
 
 ## 📌 List
-- [ ] 📄 Paper submitted (coming soon)
+- [✅] 📄 Paper submitted
 - [ ] 🔓 Code released
 - [ ] 🚀 Data
-- [ ] 📚 Citation
+- [✅] 📚 Citation
+
+## paper
 
 ## 🔓 Code
 Our code will be publicly available on: [![Code](https://img.shields.io/badge/💻-Code-blue)](https://github.com/IPIU-XDU/MedicalFM) https://github.com/IPIU-XDU/MedicalFM
