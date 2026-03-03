@@ -2,10 +2,10 @@
 Foundation Models meet Medical Image Interpretation
 
 ## 📌 List
-- [✅] 📄 Paper submitted
-- [ ] 🔓 Code released
-- [ ] 🚀 Data
-- [✅] 📚 Citation
+- 📄 Paper submitted ✅
+- 🔓 Code released
+- 🚀 Data
+- 📚 Citation ✅
 
 ## paper
 
