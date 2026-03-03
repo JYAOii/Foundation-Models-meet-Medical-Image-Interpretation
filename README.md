@@ -88,6 +88,10 @@ If you utilize the baselines in this repository for your research, please consid
 We would like to acknowledge the contributions of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) and the authors of the baseline models: [STU-Net](https://github.com/uni-medical/STU-Net). This repository builds upon their foundational code and work.
 
 ## Reference
+If you find this work helpful for your research, please consider citing our paper:
+
+**BibTeX:**
+```bibtex
 @article{jiao2026foundation,
   title={Foundation Models Meet Medical Image Interpretation},
   author={Jiao, Licheng and Hao, Jiayao and Li, Ruiyang and Li, Lingling and Liu, Xu and Liu, Fang and Ma, Wenping and Chen, Puhua and Huang, Zhongjian and Yang, Jingyi and others},
