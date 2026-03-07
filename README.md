@@ -2,7 +2,7 @@
 Foundation Models meet Medical Image Interpretation
 
 ## 📌 List
-- 📄 Paper submitted ✅
+- 📄 Paper ✅
 - 🔓 Code released
 - 🚀 Data
 - 📚 Citation ✅
@@ -17,7 +17,7 @@ Our code will be publicly available on: [![Code](https://img.shields.io/badge/�
 To get started, follow these steps: 
    ```bash
    conda activate p310
-   cd /home/lry/MedicalFM
+   cd /home/JY/MedicalFM
    export PYTHONPATH=$PYTHONPATH:./
    ```
 1. Clone the Repository
